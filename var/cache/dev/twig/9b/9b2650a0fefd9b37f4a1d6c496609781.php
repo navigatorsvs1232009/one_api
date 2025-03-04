@@ -676,6 +676,6 @@ class __TwigTemplate_85d8eb8c028224685bcfc77040f28e4e extends Template
         </div>
     {% endfor %}
 {% endblock %}
-", "@WebProfiler/Collector/notifier.html.twig", "/home/one/PhpstormProjects/one/vendor/symfony/web-profiler-bundle/Resources/views/Collector/notifier.html.twig");
+", "@WebProfiler/Collector/notifier.html.twig", "/home/one/PhpstormProjects/one_api/vendor/symfony/web-profiler-bundle/Resources/views/Collector/notifier.html.twig");
     }
 }

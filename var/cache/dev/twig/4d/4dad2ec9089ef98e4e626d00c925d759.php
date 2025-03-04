@@ -731,6 +731,6 @@ class __TwigTemplate_20387c3fb4d9fe83340f65e758123090 extends Template
     });
 })();
 </script>
-", "@WebProfiler/Profiler/settings.html.twig", "/home/one/PhpstormProjects/one/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/settings.html.twig");
+", "@WebProfiler/Profiler/settings.html.twig", "/home/one/PhpstormProjects/one_api/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/settings.html.twig");
     }
 }

@@ -989,6 +989,6 @@ class __TwigTemplate_80d1846e42d71b1bacfbf15d78659ef5 extends Template
         </td>
     </tr>
 {% endmacro %}
-", "@DoctrineMigrations/Collector/migrations.html.twig", "/home/one/PhpstormProjects/one/vendor/doctrine/doctrine-migrations-bundle/templates/Collector/migrations.html.twig");
+", "@DoctrineMigrations/Collector/migrations.html.twig", "/home/one/PhpstormProjects/one_api/vendor/doctrine/doctrine-migrations-bundle/templates/Collector/migrations.html.twig");
     }
 }
